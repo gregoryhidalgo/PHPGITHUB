@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Changed to github';
+            echo 'Changed to github';
+            echo 'Changed to github';
         ?>
     </body>
 </html>
